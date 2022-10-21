@@ -2,3 +2,4 @@
 - 🌱 I’m currently learning C
 - 📫 How to reach me https://www.linkedin.com/in/mohit-kumar-b255b3252/
 - ⚡ I write occasionally
+-[![trophy](https://github-profile-trophy.vercel.app/Mohit-005ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
