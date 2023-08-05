@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Mohit
 - 🌱 I’m currently learning C
-- 📫 How to reach me https://www.linkedin.com/in/mohit-kumar-b255b3252/
 - ⚡ I write occasionally
