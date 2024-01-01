@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mohit
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning DSA
 - ⚡ I write occasionally
