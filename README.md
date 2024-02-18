@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I'm Mohit!</h1>
 <!-- <h3 align="center">A passionate CSE student from India</h3> -->
-![ME](https://github.com/Mohit-005/Mohit-005/assets/115066003/07835230-d4b6-467b-9f3a-729d8d758257)
+![ME](https://github.com/Mohit-005/Mohit-005/assets/115066003/3aad7162-f4b9-48aa-8427-7ddf7ebdb31c)
+
 
 
 
