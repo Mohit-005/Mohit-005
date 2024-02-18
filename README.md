@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I'm Mohit!</h1>
 <!-- <h3 align="center">A passionate CSE student from India</h3> -->
-![ME](https://github.com/Mohit-005/Mohit-005/assets/115066003/d3abed9f-dc27-4043-a890-1ea89da80d1f)
+![ME](https://github.com/Mohit-005/Mohit-005/assets/115066003/07835230-d4b6-467b-9f3a-729d8d758257)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohit-005&label=Profile%20views&color=0e75b6&style=flat" alt="Mohit-005" /> </p>
