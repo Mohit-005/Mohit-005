@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Mohit!</h1>
 <!-- <h3 align="center">A passionate CSE student from India</h3> -->
-![ME](Mohit-005/ME.jpg)
+![ME](ME.jpg)
 
 
 
