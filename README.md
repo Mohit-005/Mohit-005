@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I'm Mohit!</h1>
 <!-- <h3 align="center">A passionate CSE student from India</h3> -->
-Mohit-005/ME.jpg
+![ME](https://github.com/Mohit-005/Mohit-005/assets/115066003/d3abed9f-dc27-4043-a890-1ea89da80d1f)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohit-005&label=Profile%20views&color=0e75b6&style=flat" alt="Mohit-005" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohit-005" alt="Mohit-005" /></a> </p>
