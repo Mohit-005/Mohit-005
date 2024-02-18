@@ -17,6 +17,8 @@
 <img align="left" width="13%" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <br>
 <br>
+
+## Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohit-005&show_icons=true&locale=en&layout=compact" alt="Mohit-005" /></p>
 <br>
 <br>
