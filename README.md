@@ -1,10 +1,6 @@
 <h1 align="center">Hey, I'm Mohit!</h1>
 <!-- <h3 align="center">A passionate CSE student from India</h3> -->
 <img src='ME.jpg' width = 300 height =175 align = "right" alt="coder" >
-  <p><img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572"></p>
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohit-005&label=Profile%20views&color=0e75b6&style=flat" alt="Mohit-005" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohit-005" alt="Mohit-005" /></a> </p>
