@@ -43,8 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-###
-
 ## IDE/Editor (s) In Use:
 <div align="left">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
@@ -54,6 +52,7 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" alt="intellijidea logo"  />
 </div>
 <br>
+
 ## Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohit-005&show_icons=true&locale=en&layout=compact" alt="Mohit-005" /></p>
 <br>
