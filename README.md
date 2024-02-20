@@ -69,6 +69,9 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 <img src="https://raw.githubusercontent.com/Mohit-005/Mohit-005/output/snake.svg" alt="Snake animation" />
 
 ###
