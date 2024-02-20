@@ -65,6 +65,10 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Mohit-005&show_icons=true&locale=en" alt="Mohit-005" /></p>
 <br>
+<br>
+<br>
+<br>
+<br>
 <img src="https://raw.githubusercontent.com/Mohit-005/Mohit-005/output/snake.svg" alt="Snake animation" />
 
 ###
