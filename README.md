@@ -54,8 +54,6 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" alt="intellijidea logo"  />
 </div>
 <br>
-<br>
-
 ## Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohit-005&show_icons=true&locale=en&layout=compact" alt="Mohit-005" /></p>
 <br>
