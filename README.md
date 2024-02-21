@@ -46,8 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-<h2 align="center">IDE/Editor (s) In Use:</h2>
-<div align="center">
+<h2 align="left">IDE/Editor (s) In Use:</h2>
+<div align="left">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="30" alt="pycharm logo"  />
@@ -56,8 +56,8 @@
 </div>
 <br>
 
-<h2 align="center">Stats:</h2>
-<div align="center">
+<h2 align="left">Stats:</h2>
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohit-005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohit-005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
