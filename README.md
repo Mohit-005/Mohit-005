@@ -43,13 +43,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-###
-
 ## IDE/Editor (s) In Use:
-<img align="left" width="10%" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<img align="left" width="10%" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-<img align="left" width="13%" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<br>
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" alt="intellijidea logo"  />
+</div>
 <br>
 
 ## Stats:
@@ -62,6 +63,6 @@
 <br>
 <br>
 <br>
-<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Mohit-005&show_icons=true&locale=en" alt="Mohit-005" /></p>
 
+<img src="https://raw.githubusercontent.com/Mohit-005/Mohit-005/output/snake.svg" alt="Snake animation" />
