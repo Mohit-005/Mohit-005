@@ -1,6 +1,8 @@
 <h1 align="center">Hey, I'm Mohit!</h1>
 <!-- <h3 align="center">A passionate CSE student from India</h3> -->
-<img src='ME.jpg' width = 300 height =300 align = "left" alt="coder" >
+<div align="center">
+  <img height="500" width="500" src="ME.jpg"  />
+</div>
 <br>
 <br>
 <br>
