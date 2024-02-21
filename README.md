@@ -63,6 +63,8 @@
 </div>
 
 ####
+<div align="center">
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Mohit-005/Mohit-005/output/snake.svg" alt="Snake animation" />
+</div>
