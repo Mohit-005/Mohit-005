@@ -3,12 +3,14 @@
 <div align="center">
   <img height="300" width="300" src="ME.jpg"  />
 </div>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohit-005&label=Profile%20views&color=0e75b6&style=flat" alt="Mohit-005" /> </p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohit-005.Mohit-005&"  />
+</div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohit-005" alt="Mohit-005" /></a> </p>
 
-- 🔭 I'm currently working on sharpening my skills
-- 🌱 I'm currently learning DSA
+<h2 align="left">About Me:</h2>
+- 🔭 I'm currently working on sharpening my skills<br>
+- 🌱 I'm currently learning DSA<br>
 - ⚡ I write occasionally
 
 <h2 align="left">Languages and Tools:</h2>
@@ -51,6 +53,7 @@
 <br>
 
 <h2 align="center">Stats:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohit-005&show_icons=true&locale=en&layout=compact" alt="Mohit-005" /></p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Mohit-005&show_icons=true&locale=en" alt="Mohit-005" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohit-005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
